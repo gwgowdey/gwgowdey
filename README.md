@@ -18,9 +18,7 @@ ITSY 1300 - Fundamentals of Information Security, COSC 1301 - Introduction to Co
 
 My most recent full-time position was eliminated due to the COVID-19 pandemic. Having gained some IT skills from past positions, I decided to expand upon that prior IT experience and pursue software engineering as my career choice. I'm currently in the job market and actively applying for any full-time technical position that would allow me to supplement my current educational pursuits.
 
-I plan to use my GitHub as a showcase/portolio for potential future employers. Please visit the Resume-and-Career-Summary repository that is pinned below if you'd like to know more in-depth about my background.
-
-src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+I plan to use my GitHub as a showcase/portolio for potential future employers. Please visit the Resume-and-Career-Summary repository that is pinned to my profile if you'd like to know more in-depth about my background.
 
 <b>Interests</b>: Research and development, computer vision, machine learning, automation, video, biotech, and sports.
 
