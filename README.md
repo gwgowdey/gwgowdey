@@ -1,10 +1,8 @@
-<img href = "mailto:gwgowdey@gmail.com" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+Greetings! Welcome to my GitHub page. :computer:
 
-<a href = "linkedin.com/in/gwgowdey"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-Greetings! Welcome to my GitHub page.
-
-My name is Griffin Gowdey, and I'm currently a part-time virtual student at Tarrant County College in Fort Worth, Texas. I'm studying IT: Programming and will be completing a Level 2 Certificate/Associate of Applied Science degree in Fall 2021. I'm also an evening part-time virtual Math Tutor with their Northeast Campus Math and Physics Learning Center. Here is the list of :computer: courses that I'll be taking there:
+My name is Griffin Gowdey, and I'm currently a part-time virtual student at Tarrant County College in Fort Worth, Texas. I'm studying IT: Programming and will be completing a Level 2 Certificate/Associate of Applied Science degree in Fall 2021. I'm also an evening part-time virtual Math Tutor with their Northeast Campus Math and Physics Learning Center. Here is the list of courses that I'll be taking there:
 
 <b>Fall 2020</b>:
 COSC 1436 - Programming Fundamentals I+ (C++), COSC 1437 - Programming Fundamentals II+ (C++), ITSE 2417 - Java Programming (Java), and ITSE 1479 - Intro to Scripting Languages (Python).
@@ -20,9 +18,9 @@ ITSY 1300 - Fundamentals of Information Security, COSC 1301 - Introduction to Co
 
 My most recent full-time position was eliminated due to the COVID-19 pandemic. Having gained some IT skills from past positions, I decided to expand upon that prior IT experience and pursue software engineering as my career choice. I'm currently in the job market and actively applying for any full-time technical position that would allow me to supplement my current educational pursuits.
 
-I plan to use my GitHub as a showcase/portolio for potential future employers. Click the icon below if you'd like to know more in-depth about my background.
+I plan to use my GitHub as a showcase/portolio for potential future employers. Please visit the Resume-and-Career-Summary repository that is pinned below if you'd like to know more in-depth about my background.
 
-<img href = "github.com/gwgowdey/Resume-and-Career-Summary" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 <b>Interests</b>: Research and development, computer vision, machine learning, automation, video, biotech, and sports.
 
