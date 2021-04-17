@@ -1,4 +1,6 @@
-Greetings! Welcome to my GitHub page. <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> :computer:
+<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+Greetings! Welcome to my GitHub page. :computer:
 
 My name is Griffin Gowdey, and I'm currently a part-time virtual student at Tarrant County College in Fort Worth, Texas. I'm studying IT: Programming and will be completing a Level 2 Certificate/Associate of Applied Science degree in Fall 2021. I'm also an evening part-time virtual Math Tutor with their Northeast Campus Math and Physics Learning Center. My work schedule is Monday through Friday from 5 PM to 8PM and Saturday from 10 AM to 4 PM. 
 
