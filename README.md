@@ -10,7 +10,7 @@ Here is the list of courses that I'll be taking there:
 COSC 1436 - Programming Fundamentals I+ (C++), COSC 1437 - Programming Fundamentals II+ (C++), ITSE 2417 - Java Programming (Java), and ITSE 1479 - Intro to Scripting Languages (Python).
 
 <u><b>Spring 2021</b></u>:
-ITSE 1450 - System Analysis and Design (Capstone/Final Project. HTML, CSS, C++, and Python), COSC 2436 - Programming Fundamentals III+ (Data Structure and Algorithms. C++ and Java), and ITSE 2409 - Database Programming (SQL).
+ITSE 1450 - System Analysis and Design (Capstone/Final Project. HTML, CSS, and Python), COSC 2436 - Programming Fundamentals III+ (Data Structure and Algorithms. C++ and Java), and ITSE 2409 - Database Programming (SQL).
 
 <u><b>Summer 2021</b></u>:
 BCIS 1305 - Business Computer Applications, ITNW 1425 - Fundamentals of Networking Technologies, ITSC 1425 - Personal Computer Hardware, and ITSY 1300 - Fundamentals of Information Security.
