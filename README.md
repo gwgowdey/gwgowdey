@@ -20,6 +20,6 @@ ITSC 1305 - Introduction to PC Operating Systems and possible electives dependin
 
 <b>Interests</b>: Research and development, computer vision, machine learning, process automation, video, biotech, and sports.
 
-<b>Languages I've Worked With</b>: Python, Java, C++, SQL, HTML, and CSS.
+<b>Languages I've Worked With</b>: Python, Java, C++, SQL, R, HTML, and CSS.
 
 <b>Education</b>: Florida State University, Summer 2016/Fall 2017 - B.S. in Exercise Physiology/M.S. in Sport Management and Tarrant County College, Fall 2021 - Certificate/A.A.S. in IT: Programming.
