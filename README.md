@@ -2,7 +2,7 @@
 
 Greetings! Welcome to my GitHub page. :computer:
 
-My name is Griffin Gowdey, and I'm currently an Associate Technical Consultant with <a href = "https://www.hsoproserv.com">HSO ProServ</a> specializing in Microsoft Dynamics 365. I am also a part-time online student at Tarrant County College studying <a href = "https://www.tccd.edu/academics/courses-and-programs/programs-a-z/credit/information-technology/programming">IT: Programming</a> and an evening part-time virtual Math Tutor with their Northeast Campus Math and Physics Learning Center.
+My name is Griffin Gowdey, and I am currently an Associate Technical Consultant with <a href = "https://www.hsoproserv.com">HSO ProServ</a> specializing in Microsoft Dynamics 365. I am also a part-time online student at Tarrant County College studying <a href = "https://www.tccd.edu/academics/courses-and-programs/programs-a-z/credit/information-technology/programming">IT: Programming</a> and an evening part-time virtual Math Tutor with their Northeast Campus Math and Physics Learning Center.
 
 <b>TCC Courses</b>:
 
