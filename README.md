@@ -13,10 +13,7 @@ COSC 1436 - Programming Fundamentals I+ (C++), COSC 1437 - Programming Fundament
 ITSE 1450 - System Analysis and Design (Capstone/Final Project. HTML, CSS, and Python), COSC 2436 - Programming Fundamentals III+ (Data Structure and Algorithms. C++ and Java), and ITSE 2409 - Database Programming (SQL).
 
 <b>Summer 2021</b>:
-BCIS 1305 - Business Computer Applications, ITNW 1425 - Fundamentals of Networking Technologies, ITSC 1425 - Personal Computer Hardware, and ITSY 1300 - Fundamentals of Information Security.
-
-<b>Fall 2021</b>:
-ITSC 1305 - Introduction to PC Operating Systems and possible electives depending on my work schedule.
+BCIS 1305 - Business Computer Applications, ITNW 1425 - Fundamentals of Networking Technologies, ITSC 1425 - Personal Computer Hardware, and ITSY 1300 - Fundamentals of Information Security, and ITSC 1305 - Introduction to PC Operating Systems.
 
 <b>Interests</b>: Research and development, computer vision, machine learning, process automation, video, biotech, and sports.
 
